@@ -1,6 +1,6 @@
 # Mining-the-social-web-notes
 
-##Chapter 1. Mining Twitter
+## Chapter 1. Mining Twitter
 
 - Twitter might be described as a real time, highly social microblogging service that allows users to post short status updates, called tweets, that appear on timelines.
 
